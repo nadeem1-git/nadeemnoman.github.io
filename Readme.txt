@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+# Nadeem's Portfolio Website
 
-Template Name: DevFolio
-Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is my personal portfolio website. You can **explore my projects** and **contact me** through this site.
